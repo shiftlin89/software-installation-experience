@@ -1,6 +1,6 @@
 # Software-installation-experience
 
-No code in this rep
+Only test example code in this rep
 
 Please switch to Wiki page:
 
